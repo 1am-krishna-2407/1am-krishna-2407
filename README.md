@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1am-krishna-2407&label=Profile%20views&color=0e75b6&style=flat" alt="1am-krishna-2407" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1am-krishna-2407" alt="1am-krishna-2407" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/krishna79217259" target="blank"><img src="https://img.shields.io/twitter/follow/krishna79217259?logo=twitter&style=for-the-badge" alt="krishna79217259" /></a> </p>
 
 - 🌱 I’m currently learning **Bootstrap, ReactJs, ThreeJs**
 
@@ -21,6 +23,7 @@
 <p align="left">
 <a href="https://codepen.io/@1am-krishna-2407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@1am-krishna-2407" height="30" width="40" /></a>
 <a href="https://dev.to/@itsdevkrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@itsdevkrishna" height="30" width="40" /></a>
+<a href="https://twitter.com/krishna79217259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishna79217259" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/krishna kumar jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="krishna kumar jha" height="30" width="40" /></a>
 <a href="https://instagram.com/krishna_live_life" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishna_live_life" height="30" width="40" /></a>
 <a href="https://medium.com/@krishnajha2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@krishnajha2004" height="30" width="40" /></a>
@@ -34,4 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1am-krishna-2407&show_icons=true&locale=en" alt="1am-krishna-2407" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1am-krishna-2407&" alt="1am-krishna-2407" /></p>
+
 
