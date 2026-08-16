@@ -155,8 +155,8 @@ I'm particularly interested in understanding how **machine learning systems move
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1am-krishna-2407&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1am-krishna-2407&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=1am-krishna-2407&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=1am-krishna-2407&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
