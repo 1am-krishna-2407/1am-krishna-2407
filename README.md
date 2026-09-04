@@ -268,14 +268,14 @@ Problem → Application → Intelligence → Infrastructure → Deployment
 
 <p align="center">
   <img src="profile-summary-card-output/gruvbox/3-stats.svg" height="170" />
-  <img src=".profile-summary-card-output/gruvbox/1-repos-per-language.svg" height="170" />
+  <img src="profile-summary-card-output/gruvbox/1-repos-per-language.svg" height="170" />
 </p>
 
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="profile-summary-card-output/gruvbox/0-profile-details.svg" width="140" />
-  <img src="profile-summary-card-output/gruvbox/4-productive-time.svg" width="95%" />
+  <img src="profile-summary-card-output/algolia/0-profile-details.svg" width="250" />
+  <img src="profile-summary-card-output/gruvbox/4-productive-time.svg" width="160" />
 </p>
 🐍 Contribution Snake
 
