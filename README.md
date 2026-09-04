@@ -267,14 +267,15 @@ Problem → Application → Intelligence → Infrastructure → Deployment
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="./profile-summary-card-output/github-readme-stats.svg" height="170" />
-  <img src="./profile-summary-card-output/top-languages.svg" height="170" />
+  <img src="profile-summary-card-output/gruvbox/3-stats.svg" height="170" />
+  <img src=".profile-summary-card-output/gruvbox/1-repos-per-language.svg" height="170" />
 </p>
 
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="./profile-summary-card-output/profile-details.svg" width="95%" />
+  <img src="profile-summary-card-output/gruvbox/0-profile-details.svg" width="140" />
+  <img src="profile-summary-card-output/gruvbox/4-productive-time.svg" width="95%" />
 </p>
 🐍 Contribution Snake
 
