@@ -274,8 +274,8 @@ Problem → Application → Intelligence → Infrastructure → Deployment
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="profile-summary-card-output/algolia/0-profile-details.svg" width="250" />
-  <img src="profile-summary-card-output/gruvbox/4-productive-time.svg" width="160" />
+  <img src="profile-summary-card-output/aura/0-profile-details.svg" width="40%" />
+  <img src="profile-summary-card-output/aura/4-productive-time.svg" width="40%" />
 </p>
 🐍 Contribution Snake
 
