@@ -263,26 +263,18 @@ I'm interested in understanding how these pieces connect to turn an idea into a 
 
 Problem → Application → Intelligence → Infrastructure → Deployment
 
-📊 GitHub Analytics
 
-📈 GitHub Activity
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<img src="./assets/metrics.svg" alt="GitHub activity and contribution statistics" width="100%">
-
+  <img src="./profile-summary-card-output/github-readme-stats.svg" height="170" />
+  <img src="./profile-summary-card-output/top-languages.svg" height="170" />
 </p>
+
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1am-krishna-2407&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph">
-</p>
-
-## 💻 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1am-krishna-2407&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1am-krishna-2407&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages">
+  <img src="./profile-summary-card-output/profile-details.svg" width="95%" />
 </p>
 🐍 Contribution Snake
 
