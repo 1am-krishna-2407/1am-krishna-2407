@@ -272,30 +272,18 @@ Problem → Application → Intelligence → Infrastructure → Deployment
 <img src="./assets/metrics.svg" alt="GitHub activity and contribution statistics" width="100%">
 
 </p>
-
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=1am-krishna-2407&bg_color=0d1117&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=true" 
-    alt="GitHub Activity Graph"
-    width="95%"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1am-krishna-2407&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph">
 </p>
 
 ## 💻 GitHub Statistics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=1am-krishna-2407&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=1am-krishna-2407&layout=compact&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=1am-krishna-2407&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1am-krishna-2407&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages">
 </p>
-
 🐍 Contribution Snake
 
 <p align="center">
