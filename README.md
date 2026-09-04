@@ -1,196 +1,399 @@
-# 👋 Hi, I'm Krishna Jha
+<div align="center">
 
-### AI/ML Engineer • Software Developer • MLOps Enthusiast
+Hi, I'm Krishna Jha 👋
 
-I'm a Computer Science student passionate about building **intelligent systems, scalable software, and production-ready machine learning applications**.
+AI/ML • Generative AI • Software Development • Building Intelligent Systems
 
-My interests sit at the intersection of **Machine Learning, Generative AI, Backend Engineering, and MLOps** — from developing models and APIs to deploying complete end-to-end systems.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=750&lines=Building+AI-powered+applications;Exploring+Generative+AI+%26+LLMs;Working+across+AI%2C+backend+%26+databases;Building+production-oriented+software+systems;Learning+by+building+real-world+projects;Turning+ideas+into+working+systems" alt="Typing introduction">
+<br>
 
----
+<a href="https://github.com/1am-krishna-2407">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
-## 🚀 What I'm Working On
+<a href="https://www.linkedin.com/in/krishnaaa-here">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-* 🤖 Building AI/ML applications with **Python**
-* 🧠 Exploring **Generative AI, LLMOps & MLOps**
-* ⚙️ Developing scalable **backend systems and APIs**
-* 🐳 Working with **Docker, asynchronous processing and deployment**
-* 📊 Building machine learning and **time-series forecasting** solutions
-* 💻 Strengthening **DSA, Java, SQL and system design**
+<a href="mailto:krishnajha2004@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
----
+<br><br>
 
-## 🛠️ Tech Stack
+<img src="https://komarev.com/ghpvc/?username=1am-krishna-2407&color=7C3AED&style=flat-square&label=PROFILE+VIEWS" alt="Profile views">
 
-### 👨‍💻 Languages
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+👨‍💻 About Me
 
-### 🤖 AI / Machine Learning
+I'm Krishna Jha, a developer focused on building practical systems at the intersection of AI/ML, Generative AI and software engineering.
 
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-006600?style=for-the-badge&logo=xgboost&logoColor=white" />
-</p>
+My work spans machine learning, computer vision, LLM applications, RAG and predictive modeling, while also going beyond the model itself into APIs, backend systems, databases, asynchronous processing and containerized execution.
 
-**Machine Learning:** Regression • Classification • Clustering • Feature Engineering • Model Evaluation
+I enjoy taking an idea from a problem statement to a working application — understanding how the AI layer connects with the software system around it.
 
-**Deep Learning:** Neural Networks • LSTM • Computer Vision
+🤖 Building and experimenting with AI/ML & Generative AI applications
 
-**Forecasting:** XGBoost • Prophet • LSTM
+🧠 Exploring LLMs, RAG, prompt engineering & agentic systems
 
-### ⚙️ Backend & Development
+👁️ Working with Computer Vision, Deep Learning & Object Detection
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+⚙️ Building backend APIs, asynchronous systems & workers
 
-**Backend:** REST APIs • Authentication • Async Processing • Databases • Dockerized Services
+🐳 Exploring Docker, MLOps & production-oriented workflows
 
-### 🧠 Currently Exploring
+🗄️ Working with SQL, MongoDB & data-driven applications
 
-`MLOps` `LLMOps` `Generative AI` `RAG` `Model Deployment` `Distributed Systems` `Cloud`
+💻 Practicing DSA, Java & software engineering fundamentals
 
----
+🚀 Turning technical ideas into end-to-end working projects
 
-## 🔥 Featured Projects
+I don't want to just build a model. I want to understand the complete system around it.
 
-### ⚡ CodFlow — Online Code Execution Platform
+🧠 What I Work With
 
-A secure code execution platform designed to execute user-submitted programs inside isolated environments.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Key Features**
+🤖 AI / Machine Learning
 
-* 🔐 Authentication & user management
-* 💻 Integrated code editor and execution workflow
-* 📜 Execution history
-* 🔎 Detailed execution results
-* ⚡ Asynchronous job processing
-* 👷 Worker-based execution architecture
-* 🐳 Docker-based sandboxed execution
+Machine Learning
 
-**Tech Stack**
+Deep Learning
 
-`Python` `React` `MongoDB` `Docker` `REST APIs` `Async Processing`
+Computer Vision
 
----
+Generative AI
 
-### 📈 Electricity Demand Forecasting
+Large Language Models
 
-An end-to-end forecasting system combining machine learning and time-series approaches to predict future electricity demand.
+Retrieval-Augmented Generation
 
-**Models**
+NLP
 
-* **XGBoost** — Gradient boosting based forecasting
-* **Prophet** — Time-series forecasting
-* **LSTM** — Deep learning based sequential forecasting
+Prompt Engineering
 
-**Tech Stack**
+AI-powered Applications
 
-`Python` `Pandas` `Scikit-learn` `XGBoost` `Prophet` `LSTM`
+Object Detection
 
----
+Predictive Modeling
 
-### 🔏 Seal Detection Using Computer Vision
+Model Evaluation
 
-A computer vision system designed to automatically detect and localize seals from document and image data for verification and authentication purposes.
+</td>
 
-**Focus Areas**
+<td width="50%" valign="top">
 
-`Computer Vision` `Object Detection` `Image Processing` `Document Analysis` `Authentication Systems`
+💻 Software Development
 
----
+Python
 
-## 🧠 Areas of Interest
+Java
 
-```text
-                    Artificial Intelligence
-                            │
-             ┌──────────────┴──────────────┐
-             │                             │
-      Machine Learning               Generative AI
-             │                             │
-      Deep Learning                    LLM Systems
-             │                             │
-             └──────────────┬──────────────┘
-                            │
-                       MLOps / LLMOps
-                            │
-                  Model Deployment
-                            │
-                     Backend APIs
-                            │
-                  Scalable Applications
-```
+JavaScript
 
-I'm particularly interested in understanding how **machine learning systems move from experimentation to reliable production systems**.
+C / C++
 
----
+React
 
-## 📚 Currently Learning
+Node.js
 
-* ☕ Advanced Java & Data Structures
-* 🤖 Machine Learning Engineering
-* ⚙️ MLOps & Model Deployment
-* 🧠 LLMOps & Generative AI
-* 🔧 Backend Architecture
-* 🌐 Distributed & Scalable Systems
-* ☁️ Cloud & Containerized Applications
+REST APIs
 
----
+FastAPI
 
-## 📊 GitHub Stats
+HTML / CSS
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=1am-krishna-2407&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=1am-krishna-2407&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
+Git & GitHub
 
----
+Authentication
 
-## 📈 Contribution Graph
+API Integration
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1am-krishna-2407&theme=tokyo-night&hide_border=true" />
-</p>
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
 
-## 🤝 Let's Connect
+🗄️ Data & Backend
 
-I'm always interested in connecting with people working on **AI, ML, Software Engineering, Generative AI and MLOps**.
+SQL
 
-<p>
-  <a href="https://www.linkedin.com/in/krishnaaa-here">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://portfolio-alpha-sage-21.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:krishnajha2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+MySQL
 
----
+MongoDB
+
+Database Design
+
+Data Handling
+
+Backend Development
+
+Vector Search
+
+FAISS
+
+Async Processing
+
+Queues & Workers
+
+Data Pipelines
+
+</td>
+
+<td width="50%" valign="top">
+
+⚙️ Engineering & MLOps
+
+Docker
+
+Containerized Applications
+
+MLOps
+
+Model Deployment
+
+Distributed Systems
+
+Code Execution Systems
+
+Secure Sandboxing
+
+System Design Fundamentals
+
+Automation
+
+Problem Solving
+
+DSA
+
+</td>
+</tr>
+</table>
+
+🛠️ Technologies
 
 <p align="center">
-  <i>Build. Learn. Deploy. Repeat.</i>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,react,nodejs,fastapi,mongodb,mysql,docker,git,github,vscode&perline=8" alt="Technology stack">
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1am-krishna-2407&style=flat-square" alt="Profile Views" />
+
+<img src="https://img.shields.io/badge/Machine_Learning-181717?style=flat-square" alt="Machine Learning">
+<img src="https://img.shields.io/badge/Deep_Learning-181717?style=flat-square" alt="Deep Learning">
+<img src="https://img.shields.io/badge/Computer_Vision-181717?style=flat-square" alt="Computer Vision">
+<img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square" alt="Generative AI">
+<img src="https://img.shields.io/badge/LLMs-7C3AED?style=flat-square" alt="LLMs">
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" alt="RAG">
+<img src="https://img.shields.io/badge/MLOps-181717?style=flat-square" alt="MLOps">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square" alt="Docker">
+
 </p>
+
+🚀 Featured Projects
+
+I prefer building projects where AI, software engineering and infrastructure come together rather than isolated tutorials.
+
+⚡ CodFlow — Online Code Execution Platform
+
+A full-stack code execution platform designed around asynchronous code execution and isolated runtime environments.
+
+The system brings together authentication, execution history, APIs, asynchronous queues, workers and Docker-based sandboxing to execute user code in a controlled environment.
+
+Focus: Backend Async Processing Queues Workers Docker Authentication Distributed Systems
+
+✍️ Signature & Seal Detection
+
+A YOLOv8-powered computer vision system for automatic detection of handwritten signatures and official seals in document images.
+
+Built using a hybrid real + synthetic dataset, the system achieved 97.1% mAP@50 and provides real-time document analysis through Streamlit.
+
+Focus: YOLOv8 Computer Vision Deep Learning Object Detection Synthetic Data Streamlit
+
+🧩 How I Like Building
+
+                     REAL-WORLD PROBLEM
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │   APPLICATION   │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │ FRONTEND / UI   │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │  BACKEND / API  │
+                    └────────┬────────┘
+                             │
+                  ┌──────────┴──────────┐
+                  ▼                     ▼
+           ┌─────────────┐       ┌─────────────┐
+           │  DATABASE   │       │   AI / ML   │
+           └─────────────┘       └──────┬──────┘
+                                        │
+                              ┌─────────┴─────────┐
+                              ▼                   ▼
+                       ┌────────────┐      ┌────────────┐
+                       │    LLM     │      │ COMPUTER   │
+                       │   / RAG    │      │   VISION   │
+                       └────────────┘      └────────────┘
+                              │
+                              ▼
+                       ┌─────────────┐
+                       │ DEPLOYMENT  │
+                       └──────┬──────┘
+                              │
+                              ▼
+                         ┌─────────┐
+                         │ MLOps / │
+                         │ SYSTEMS │
+                         └─────────┘
+
+I'm interested in understanding how these pieces connect to turn an idea into a usable, reliable and deployable system.
+
+Problem → Application → Intelligence → Infrastructure → Deployment
+
+📊 GitHub Analytics
+
+📈 GitHub Activity
+
+<p align="center">
+
+<img src="./assets/metrics.svg" alt="GitHub activity and contribution statistics" width="100%">
+
+</p>
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=1am-krishna-2407&bg_color=0d1117&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=true" 
+    alt="GitHub Activity Graph"
+    width="95%"
+  />
+</p>
+
+## 💻 GitHub Statistics
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=1am-krishna-2407&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=1am-krishna-2407&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+</p>
+
+🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake">
+
+</p>
+
+💻 Problem Solving
+
+<p align="center">
+
+<a href="leetcode.com/u/Krishna_17/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+</a>
+
+</p>
+
+I'm continuously working on DSA and problem solving alongside AI and software development.
+
+🌱 Currently Exploring
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+🤖 AI / ML
+
+Generative AI
+Large Language Models
+RAG
+Agentic AI
+Computer Vision
+Deep Learning
+AI Applications
+
+</td>
+
+<td width="33%" valign="top">
+
+💻 Software Engineering
+
+Backend Development
+REST APIs
+Async Processing
+Databases
+Full-Stack Applications
+Docker
+System Design
+
+</td>
+
+<td width="33%" valign="top">
+
+⚙️ MLOps / Systems
+
+Model Deployment
+Containerized AI
+Workers & Queues
+Distributed Execution
+Production ML
+MLOps
+Automation
+
+</td>
+</tr>
+</table>
+
+⚡ Beyond the Code
+
+🔍 I like taking an idea and figuring out how it could actually work in the real world.
+
+🧩 I enjoy projects where AI has to interact with other parts of a software system.
+
+🚀 I learn best by building, debugging and improving real projects.
+
+🧠 I'm interested in the space between AI/ML and practical software engineering.
+
+🛠️ I enjoy understanding what happens before, around and after the model.
+
+☕ Still trying to decide whether the bug is in my code or in my understanding of the code.
+
+🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in AI/ML, Generative AI, software engineering, interesting projects and learning from other builders.
+
+<br>
+
+<a href="https://www.linkedin.com/in/krishnaaa-here">LinkedIn</a>
+  •  
+<a href="https://github.com/1am-krishna-2407">GitHub</a>
+  •  
+<a href="mailto:krishnajha2004@gmail.com">Email</a>
+
+<br><br>
+
+Build • Learn • Experiment • Improve
+
+</div>
