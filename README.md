@@ -293,7 +293,7 @@ Problem → Application → Intelligence → Infrastructure → Deployment
 
 <p align="center">
 
-<a href="leetcode.com/u/krishna_17/">
+<a href="[leetcode.com/u/krishna_17/](https://leetcode.com/u/Krishna_17/)">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
 </a>
 
