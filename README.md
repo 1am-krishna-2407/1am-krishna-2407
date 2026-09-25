@@ -1,6 +1,6 @@
 <div align="center">
 
-Hi, I'm Krishna Jha 👋
+Hi, I'm  #Krishna Jha# 👋
 
 AI/ML • Generative AI • Software Development • Building Intelligent Systems
 
